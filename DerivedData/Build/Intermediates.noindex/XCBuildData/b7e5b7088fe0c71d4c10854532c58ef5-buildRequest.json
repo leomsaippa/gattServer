@@ -1,0 +1,52 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "cb3c9c9a3d1fd87c6f0bbd8ceeeb85af88a78c89113823531709c33e27eeefa0"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/lsaippa/projects/mj/GattServerSimulator/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/lsaippa/projects/mj/GattServerSimulator/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/lsaippa/projects/mj/GattServerSimulator/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/lsaippa/projects/mj/GattServerSimulator/DerivedData/GattServerSimulator/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/lsaippa/projects/mj/GattServerSimulator/DerivedData/GattServerSimulator/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/lsaippa/projects/mj/GattServerSimulator/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
