@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "3c1007d5727b3d19b2aeb94900eaa950"
+build_time: [1629310985, 385498000]
+inputs:
+  "/Users/lsaippa/projects/mj/GattServerSimulator/GattServerSimulator/AdapterUUID.swift": [1629218226, 879924495]
+  "/Users/lsaippa/projects/mj/GattServerSimulator/GattServerSimulator/Logger.swift": [1629219799, 663090191]
+  "/Users/lsaippa/projects/mj/GattServerSimulator/GattServerSimulator/AdapterBLEDevice.swift": [1629303667, 447428142]
+  "/Users/lsaippa/projects/mj/GattServerSimulator/GattServerSimulator/ContentView.swift": [1629310984, 806232566]
+  "/Users/lsaippa/projects/mj/GattServerSimulator/GattServerSimulator/AdapterGattServer.swift": [1629310984, 795772110]
+  "/Users/lsaippa/projects/mj/GattServerSimulator/GattServerSimulator/DeviceConsoleLogger.swift": [1629219937, 293767870]
+  "/Users/lsaippa/projects/mj/GattServerSimulator/GattServerSimulator/AppDelegate.swift": [1629307776, 859162834]
